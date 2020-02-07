@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp/pro_cpp/PAT_1026.cpp
+iostream
+-
+string
+-
+vector
+-
+map
+-
+algorithm
+-
+cstdio
+-
+

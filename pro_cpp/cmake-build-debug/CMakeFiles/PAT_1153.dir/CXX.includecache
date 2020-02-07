@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cpp/pro_cpp/PAT_1153.cpp
+iostream
+-
+sstream
+-
+algorithm
+-
+cstdio
+-
+string
+-
+
